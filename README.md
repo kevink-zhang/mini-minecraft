@@ -1,22 +1,22 @@
 # Overview
 ## Instructions
-Clone the repo and run in Qt Creator. Use the UPenn CIS 4600 Qt setup guide for specific settings.
+Clone the repo and run in Qt Creator. Use the UPenn CIS 4600 Qt setup guide for specific settings.\
 Demo video: https://www.youtube.com/watch?v=4Lo2-ypq7No
 
 ## Setting up and joining servers
-To set up a server, enter your desired port number to host the server at in the startup screen. Once started, your ip address will be displayed in the info subscreen.
+To set up a server, enter your desired port number to host the server at in the startup screen. Once started, your ip address will be displayed in the info subscreen.\
 To join a server, enter the ip address of the host and the matching port number.
 
 ## Game Controls 
-Standard movement: WASD
-Manual rotation: Arrow keys
-Toggle flying mode: F
-Jump/fly up: Space
-Fly down: Shift
-Toggle inventory: E 
-Interact with inventory: Right and left click and drag
-Select hotbar: 0-9
-Toggle sky: M
+Standard movement: WASD\
+Manual rotation: Arrow keys\
+Toggle flying mode: F\
+Jump/fly up: Space\
+Fly down: Shift\
+Toggle inventory: E\
+Interact with inventory: Right and left click and drag\
+Select hotbar: 0-9\
+Toggle sky: M\
 Toggle chat/send message: Enter
 
 # Milestone 3
